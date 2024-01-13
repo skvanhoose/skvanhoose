@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skvanhoose
 - 👀 I’m interested in climbing, coding, and environmentalism.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to learn all the things.
 - 📫 How to reach me: vanhooss@oregonstate.edu
 
